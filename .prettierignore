@@ -1,0 +1,13 @@
+# vs code settings to ignore 
+/.vscode
+
+# dependencies
+/node_modules
+
+# build files
+./dist
+
+# env files 
+*.env
+.env
+.env.*
